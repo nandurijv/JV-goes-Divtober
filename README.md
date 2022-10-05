@@ -1,5 +1,5 @@
 # JV-goes-Divtober
-A fun project undertaken by me to contribute to the divtober fever created by Lynn Fisher
+A fun project undertaken by me to contribute to the divtober fever created by ![Lynn Fisher](https://a.singlediv.com)
 <hr/>
 #How can you contribute to this repo?
 <ul>
