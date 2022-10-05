@@ -12,4 +12,3 @@ A fun project undertaken by me to contribute to the divtober fever created by [L
   </ul>
 <li> Commit and make a pull request </li>
 </ul>
-<button type="button">Visit My Portfolio</button>
