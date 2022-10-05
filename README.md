@@ -11,5 +11,5 @@ A fun project undertaken by me to contribute to the divtober fever created by [L
     <li>Improve existing divs</li>
   </ul>
 <li> Commit and make a pull request </li>
-<ul>
+</ul>
 <button type="button">Visit My Portfolio</button>
