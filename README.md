@@ -9,6 +9,6 @@ A fun project undertaken by me to contribute to the divtober fever created by Ly
   <ul>
     <li>Maybe create your own div</li>
     <li>Improve existing divs</li>
-  <ul>
+  </ul>
 <li> Commit and make a pull request </li>
 <ul>
