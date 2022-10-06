@@ -21,19 +21,12 @@
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  background:radial-gradient(at center,rgb(0, 62, 150,0.5) 5.5%,transparent 5.5% 100%), radial-gradient(at center,white 7.5%,transparent 5% 100%),linear-gradient(180deg,
+  background:radial-gradient(at center,rgb(0, 62, 150,0.5) 5.5%,transparent 5.5% 100%),linear-gradient(180deg,
     transparent 30%,30%,
       rgba(255, 166, 0, 0.5) 30% 45%,
       white 45% 55%,
       rgba(55, 157, 0, 0.5) 55% 70%,
       transparent 70% 100%
-    ),
-    repeating-linear-gradient(
-      90deg,
-      transparent 10%,
-      white 10% 11%,
-      11%,
-      transparent 20%
     ),
     repeating-linear-gradient(
       0deg,
