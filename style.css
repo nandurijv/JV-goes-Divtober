@@ -18,21 +18,24 @@
   transform: translate(-50%, -50%);
 }
 #badge div {
-  /* background-color:rgb(187, 0, 62); */
   height: 200px;
   width: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 4rem;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  /* color:rgb(0,0,0,0.5); */
-  color: black;
   border-radius: 50%;
-  /* background:radial-gradient(circle at top left,red 50%,blue 50%),radial-gradient(center, 
-    rgb(205, 230, 235) 34%, 
-    transparent 34%); */
-  background: repeating-linear-gradient(
+  background:radial-gradient(at center,rgb(0, 62, 150,0.5) 5.5%,transparent 5.5% 100%), radial-gradient(at center,white 7.5%,transparent 5% 100%),linear-gradient(180deg,
+    transparent 30%,30%,
+      rgba(255, 166, 0, 0.5) 30% 45%,
+      white 45% 55%,
+      rgba(55, 157, 0, 0.5) 55% 70%,
+      transparent 70% 100%
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent 10%,
+      white 10% 11%,
+      11%,
+      transparent 20%
+    ),
+    repeating-linear-gradient(
       0deg,
       transparent 10%,
       rgba(0, 0, 0, 0) 10% 11%,
@@ -45,8 +48,6 @@
     0 0px 4px 4px rgb(0, 0, 0, 0.3), 0px 0px 0 10px white,
     0px 10px 10px 10px rgb(0, 0, 0, 0.85);
   z-index: 3;
-  /* ,inset 10px 10px 0px 0px rgba(77, 76, 76, 0.258) */
-  /* inset -10px -10px 0px 10px rgba(77, 76, 76, 0.258), */
 }
 #badge div:after {
   display: block;
@@ -58,7 +59,7 @@
   left: 0;
   transform: rotate(-45deg);
   background: rgb(55, 141, 255);
-  box-shadow: 20px 0px 0 -1px rgb(174, 17, 17), 40px 0px 0 -1px rgb(224, 157, 0),
+  box-shadow: 20px 0px 0 0px rgb(174, 17, 17), 40px 0px 0 0px rgb(224, 157, 0),
     -10px 10px 5px 0 rgb(0, 0, 0, 0.5);
   z-index: -1;
 }
@@ -72,7 +73,7 @@
   right: 0;
   transform: rotate(45deg);
   background: rgb(55, 141, 255);
-  box-shadow: -20px 0px 0 -1px rgb(174, 17, 17),
-    -40px 0px 0 -1px rgb(224, 157, 0), 10px 10px 5px 0 rgb(0, 0, 0, 0.5);
+  box-shadow: -20px 0px 0 0px rgb(174, 17, 17), -40px 0px 0 0px rgb(224, 157, 0),
+    10px 10px 5px 0 rgb(0, 0, 0, 0.5);
   z-index: -1;
 }
