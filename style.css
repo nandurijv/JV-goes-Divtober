@@ -27,6 +27,12 @@
       white 45% 55%,
       rgba(55, 157, 0, 0.5) 55% 70%,
       transparent 70% 100%
+    ),repeating-linear-gradient(
+      90deg,
+      transparent 10%,
+      white 10% 11%,
+      11%,
+      transparent 20%
     ),
     repeating-linear-gradient(
       0deg,
