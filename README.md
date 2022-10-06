@@ -12,3 +12,5 @@ A fun project undertaken by me to contribute to the divtober fever created by [L
   </ul>
 <li> Commit and make a pull request </li>
 </ul>
+
+Go checkout the website live @ [JV's divtober profile](https://nandurijv.github.io/JV-goes-Divtober)
