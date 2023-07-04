@@ -7,7 +7,7 @@ A fun project undertaken by me to contribute to the divtober fever created by [L
 <li>Create your own branch.</li>
 <li>Make some changes.</li>
   <ul>
-    <li>Maybe create your own div</li>
+    <li>Maybe create your own div from the list.txt file.</li>
     <li>Improve existing divs</li>
   </ul>
 <li> Commit and make a pull request </li>
